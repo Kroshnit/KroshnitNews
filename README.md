@@ -8,7 +8,7 @@ Setup in 2 steps:
 
 Unfortunately this doesn't work as a background process, so launch only when you can walk away from your Mac for a while. Have the bot do your war correspondence for you while you sleep, perhaps.
 
-Default loop duration is set to 30 minutes but feel free to change it to your preference. The pauses are set to accomodate my specific setup (2014 MacBook Air running Big Sur) but you may have better performance with other adjustments. Current settings result in one new message every 10 seconds.
+Default loop duration is set to 30 minutes but feel free to change it to your preference. The pauses are set to accomodate my specific setup (2020 intel MacBook Air running Big Sur) but you may have better performance with other adjustments. Current settings result in one new message every 10 seconds.
 
 Comments or suggestions: kroshnit@yahoo.com
 
