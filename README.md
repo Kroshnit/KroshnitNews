@@ -22,6 +22,8 @@ Slava Ukraini!
 
 
 
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
 KroshnitNews Automator Script for MacOS (archived)
 
 Setup in 2 steps:
