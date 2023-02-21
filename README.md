@@ -21,8 +21,7 @@ When you run the script, you'll be prompted to enter how many messages you want 
 Slava Ukraini!
 
 
-
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+//////////////
 
 KroshnitNews Automator Script for MacOS (archived)
 
