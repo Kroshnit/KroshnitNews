@@ -2,7 +2,7 @@
 
 UPDATE 21 February 2023
 
-In recognition of Russia's continued assault on Ukraine nearly one year on, I have updated the next iteration of KroshnitNews as a Python script that can be run in the background on your desktop.
+In recognition of Russia's continued assault on Ukraine nearly one year on, I have updated the next iteration of KroshnitNews as PyRavda: a Python script that can be run in the background on your desktop.
 
 Fight back against Putin's war propaganda in Russia by sharing real stories about what's been happening in Ukraine with Russian citizens. As before, this project is made possible thanks to PravdaMail www.pravdamail.com, which provides the curated messages and a large database of Russian civilian email addresses.
 
